@@ -1,0 +1,42 @@
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\obj\Debug\LMS.Form1.resources
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\obj\Debug\LMS.Dashboard.resources
+C:\Users\Anu Shinde\Desktop\C#\LMS\LMS\obj\Debug\LMS.Addbooks.resources
+E:\Backup\Desktop\C#\LMS\LMS\bin\Debug\LMS.exe.config
+E:\Backup\Desktop\C#\LMS\LMS\bin\Debug\LMS.exe
+E:\Backup\Desktop\C#\LMS\LMS\bin\Debug\LMS.pdb
+E:\Backup\Desktop\C#\LMS\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+E:\Backup\Desktop\C#\LMS\LMS\obj\Debug\LMS.Addbooks.resources
+E:\Backup\Desktop\C#\LMS\LMS\obj\Debug\LMS.Dashboard.resources
+E:\Backup\Desktop\C#\LMS\LMS\obj\Debug\LMS.Form1.resources
+E:\Backup\Desktop\C#\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+E:\Backup\Desktop\C#\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+E:\Backup\Desktop\C#\LMS\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+E:\Backup\Desktop\C#\LMS\LMS\obj\Debug\LMS.exe
+E:\Backup\Desktop\C#\LMS\LMS\obj\Debug\LMS.pdb
+E:\Backup\Desktop\C#\LibraryProject\LMS\bin\Debug\LMS.exe
+E:\Backup\Desktop\C#\LibraryProject\LMS\bin\Debug\LMS.pdb
+E:\Backup\Desktop\C#\LibraryProject\LMS\bin\Debug\LMS.exe.config
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.csproj.AssemblyReference.cache
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.Addbooks.resources
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.Dashboard.resources
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.Form1.resources
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.Properties.Resources.resources
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.csproj.GenerateResource.cache
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.csproj.CoreCompileInputs.cache
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.exe
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.pdb
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.ViewBook.resources
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.AddStudent1.resources
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.ViewStudentInfo.resources
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.IssueBooks.resources
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.ReturnBooks.resources
+E:\Backup\Desktop\C#\LibraryProject\LMS\obj\Debug\LMS.CompleteBookDetails.resources
